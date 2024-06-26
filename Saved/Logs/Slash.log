@@ -1172,3 +1172,16 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.26-04.41.11:445][187]SourceControl: Commited [main 74e6d71] Adding trees to the project..
 [2024.06.26-04.41.14:561][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2024.06.26-04.41.14:563][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.007
+[2024.06.26-04.51.14:916][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.26-04.51.14:918][317]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.007
+[2024.06.26-04.52.59:692][609]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.26-04.53.06:554][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2024.06.26-04.53.06:554][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2024.06.26-04.53.06:554][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_1
+[2024.06.26-04.53.09:305][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.26-04.53.09:305][665]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.06.26-04.53.09:310][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2024.06.26-04.53.09:310][665]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01
+[2024.06.26-04.53.09:312][665]LogActorFactory: Actor Factory spawned StaticMesh /Game/BlackAlder/Geometry/SimpleWind/SM_BlackAlder_Field_01.SM_BlackAlder_Field_01 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_UAID_644ED770E452DB0202_1469423152
+[2024.06.26-04.53.12:670][ 51]Cmd: TRANSACTION UNDO
+[2024.06.26-04.53.12:670][ 51]LogEditorTransaction: Undo Place Objects
